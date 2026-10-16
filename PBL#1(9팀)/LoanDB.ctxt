@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LoanDB
+comment0.text=\r\n\ \uB300\uCD9C\ \uC815\uBCF4(\uC774\uC6A9\uC790\ ->\ \uCC45)\uB97C\ HashMap\uC73C\uB85C\ \uC800\uC7A5\uD558\uACE0\ \uAD00\uB9AC\uD558\uB294\ \uD074\uB798\uC2A4\r\n\r\n\ @author\ (9\uD300)\r\n\ @version\ (2026.10.21)\r\n
+comment1.params=
+comment1.target=LoanDB()
+comment2.params=user\ book
+comment2.target=void\ addLoan(myClass.User,\ myClass.Book)
+comment2.text=\r\n\ \uB300\uCD9C\ \uC815\uBCF4\uB97C\ \uCD94\uAC00\uD55C\uB2E4.\r\n\r\n\ @param\ user\ \uC774\uC6A9\uC790\r\n\ @param\ book\ \uCC45\r\n
+comment3.params=user
+comment3.target=myClass.Book\ removeLoan(myClass.User)
+comment3.text=\r\n\ \uC774\uC6A9\uC790\uC758\ \uB300\uCD9C\ \uC815\uBCF4\uB97C\ \uC0AD\uC81C\uD55C\uB2E4.\r\n\r\n\ @param\ user\ \uC774\uC6A9\uC790\r\n\ @return\ \ \uBC18\uB0A9\uB41C\ \uCC45\r\n
+comment4.params=user
+comment4.target=myClass.Book\ findLoan(myClass.User)
+comment4.text=\r\n\ \uC774\uC6A9\uC790\uAC00\ \uB300\uCD9C\ \uC911\uC778\ \uCC45\uC744\ \uCC3E\uB294\uB2E4.\r\n\r\n\ @param\ \ user\ \uC774\uC6A9\uC790\r\n\ @return\ \ \uB300\uCD9C\ \uC911\uC778\ \uCC45\r\n
+comment5.params=
+comment5.target=void\ printAllLoans()
+comment5.text=\r\n\ \uBAA8\uB4E0\ \uB300\uCD9C\ \uC815\uBCF4\uB97C\ \uCD9C\uB825\uD55C\uB2E4\r\n
+numComments=6
